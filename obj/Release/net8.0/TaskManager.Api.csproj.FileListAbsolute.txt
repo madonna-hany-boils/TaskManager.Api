@@ -146,3 +146,9 @@ C:\Users\mina\Downloads\TaskManager.Api\TaskManager.Api\obj\Release\net8.0\refin
 C:\Users\mina\Downloads\TaskManager.Api\TaskManager.Api\obj\Release\net8.0\TaskManager.Api.pdb
 C:\Users\mina\Downloads\TaskManager.Api\TaskManager.Api\obj\Release\net8.0\TaskManager.Api.genruntimeconfig.cache
 C:\Users\mina\Downloads\TaskManager.Api\TaskManager.Api\obj\Release\net8.0\ref\TaskManager.Api.dll
+C:\Users\mina\Downloads\TaskManager.Api\TaskManager.Api\obj\Release\net8.0\TaskManager.Api.sourcelink.json
+C:\Users\mina\Downloads\TaskManager.Api\TaskManager.Api\bin\Release\net8.0\publish\appsettings.Development.json
+C:\Users\mina\Downloads\TaskManager.Api\TaskManager.Api\bin\Release\net8.0\publish\TaskManager.Api.runtimeconfig.json
+C:\Users\mina\Downloads\TaskManager.Api\TaskManager.Api\bin\Release\net8.0\publish\web.config
+C:\Users\mina\Downloads\TaskManager.Api\TaskManager.Api\bin\Release\net8.0\publish\appsettings.json
+C:\Users\mina\Downloads\TaskManager.Api\TaskManager.Api\bin\Release\net8.0\publish\TaskManager.Api.deps.json

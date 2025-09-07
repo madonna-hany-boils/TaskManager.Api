@@ -146,3 +146,4 @@ C:\Users\mina\Downloads\TaskManager.Api\TaskManager.Api\obj\Debug\net8.0\TaskMan
 C:\Users\mina\Downloads\TaskManager.Api\TaskManager.Api\obj\Debug\net8.0\ref\TaskManager.Api.dll
 C:\Users\mina\Downloads\TaskManager.Api\TaskManager.Api\bin\Debug\net8.0\AutoMapper.dll
 C:\Users\mina\Downloads\TaskManager.Api\TaskManager.Api\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\mina\Downloads\TaskManager.Api\TaskManager.Api\obj\Debug\net8.0\TaskManager.Api.sourcelink.json
